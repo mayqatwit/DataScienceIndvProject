@@ -1,2 +1,2 @@
 # DataScienceIndvProject
-Repository for final project for Daata Science class
+Repository for the final project for Data Science class
